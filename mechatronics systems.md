@@ -14,20 +14,6 @@
 | precision through narrow tolerances        | presision through measurement and feedback control |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *Transducer* is a device that converts one form of energy to another.
 *Sensor* detects some characteristics from its environs.
 	 Active sensors - requires some form of external power to operate
