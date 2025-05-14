@@ -239,3 +239,30 @@ When the current flows through the solenoid, it generates a magnetic field that 
 *Importnace of system simulaiton before building*
 1. **Cost reduction** - Help identify design flaws early.
 2. **Performance prediction** - Allows testing under various conditions to optimise system behavior.
+
+*Define :*
+*Feedback control system* - system that uses sensor outputs to adjust imputs to maintain a desired behavior
+*Singal conditioning* - Prosessing of sensor signals to make it suitable for input to a controller.
+*Simulation*- Virtual modelling of a system to analyze performance without building tthe physical system.
+
+*Categories of electrical actuation systems*
+1. Electromagnetic actuators - solenoids
+2. Electric motors
+3. Piezoelectric actuators.
+
+### **d) Terms in control and instrumentation** [5 marks]
+
+**i. Linearity**  
+The output is directly proportional to the input across the operating range.
+
+**ii. Accuracy**  
+The closeness of the measured value to the true value.
+
+**iii. Sensitivity**  
+The degree to which the system responds to small changes in input.
+
+**iv. Repeatability**  
+Ability of a system to produce the same output under identical conditions repeatedly.
+
+**v. Resolution**  
+The smallest detectable change in input that can produce a measurable change in output.
