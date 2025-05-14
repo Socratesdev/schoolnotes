@@ -209,3 +209,33 @@ There are three different kinds of systems:
  - continuous systems - one which varies with time
  - Descrete systems - observed only at strict invtervals
  - Descrete-event systems compeltely determined y a swquences of rantom times and changes in the state at that moment.
+
+## Questions
+*Automation* - use of technology to perform tasks without human intervention.
+*Close-loop control* - A control system that uses feedback from the output to adjust the input and maintain desired performace.
+
+*Three motivation for mechatronics approach*
+1. Improved product functionality
+2. Greaterdesign flexibility due to programmable logic
+3. Enhanced precision and performance through sensors and feedback control.
+
+*Solenoid valve operations*
+When the current flows through the solenoid, it generates a magnetic field that pulls the plunger openning or closing the valve.
+**Classes of Mechatronic Products**:
+
+1. **Smart Products** – Incorporate sensors, actuators, and controllers (e.g., smart thermostats).
+2. **Adaptive Systems** – Automatically adjust behavior (e.g., ABS in cars).
+3. **Precision Systems** – Require high-accuracy control (e.g., CNC machines).
+4. **Consumer Electronics** – Embedded intelligence in household products (e.g., washing machines).
+
+**Enabling Technologies**:
+
+- **Microcontrollers and embedded systems**
+- **Sensor and actuator technologies**
+- **Digital signal processing**
+- **Communication protocols (e.g., I²C, CAN, etc.)**
+- **Software/firmware development tools**
+
+*Importnace of system simulaiton before building*
+1. **Cost reduction** - Help identify design flaws early.
+2. **Performance prediction** - Allows testing under various conditions to optimise system behavior.
